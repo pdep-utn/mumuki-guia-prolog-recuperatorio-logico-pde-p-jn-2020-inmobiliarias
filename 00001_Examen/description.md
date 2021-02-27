@@ -1,0 +1,3 @@
+Copiá en este ejercicio la solución que desarrolles para el examen. Podés subir tu solución tantas veces como quieras, se recomienda hacerlo seguido para mitigar problemas técnicos. Se corregirá únicamente sobre la última solución enviada.
+
+Link al [enunciado del examen](https://docs.google.com/document/d/e/2PACX-1vQ0gJ6Pvs5I_qkjEX6TtUmg6SMXgvqszWTcJWcT0ENokikWcjcasV3ZuniBhWpGKAfAbWUkRJjZxoDW/pub).
